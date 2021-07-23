@@ -1,3 +1,4 @@
+}
 #home1{
     background-color: #c4d9fb;
 
@@ -42,6 +43,8 @@ align-items: center;
 .menu{
     background-color: #c4d9fb;
 }
-.combo{
+.hotd{
     background-color: #C9ECB5;
+    display: flex;
+    align-items: center;
 }
