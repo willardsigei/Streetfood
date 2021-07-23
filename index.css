@@ -1,0 +1,43 @@
+#home1{
+    background-color: #c4d9fb;
+
+}
+#home3 ul{
+    width: 100%;
+    padding: 12px 10px;
+    margin: 50px 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.street{
+    color: #6cb840;
+}
+.man{
+    color: rgb(205, 50, 115);
+}
+.order{
+    background-color: #6CB840;
+    border-radius: 12px 12px 12px 12px;
+    border: transparent;
+    height: 4vh;
+}
+.kuku h3{
+    color: #6CB840;
+}
+.hen{
+display: flex;
+}
+.menu .mlist{
+    width: 100%;
+    padding: 100px 5px;
+    margin: 50px 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.menu{
+    background-color: #c4d9fb;
+}
