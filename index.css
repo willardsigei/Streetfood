@@ -28,6 +28,7 @@
 }
 .hen{
 display: flex;
+align-items: center;
 }
 .menu .mlist{
     width: 100%;
@@ -40,4 +41,7 @@ display: flex;
 }
 .menu{
     background-color: #c4d9fb;
+}
+.combo{
+    background-color: #C9ECB5;
 }
