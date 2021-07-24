@@ -31,7 +31,8 @@ display: flex;
 align-items: center;
 }
 .menu .mlist{
-    padding: 100px 5px;
+    width: 100px;
+    padding: 100px 1px;
     margin: 50px 0;
     display: flex;
     list-style: none;
