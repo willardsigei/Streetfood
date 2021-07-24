@@ -31,7 +31,7 @@ display: flex;
 align-items: center;
 }
 .menu >div{
-    background: #c4d9fb;
+    background: #f5f6f8;
     padding: 1em;
     
 }
@@ -46,19 +46,25 @@ align-items: center;
        width: 100%;
     padding: 12px 10px;
     margin: 5px 0;
-    background-color: rgb(206, 206, 194);
+    background-color: rgb(225, 225, 216);
+}
+.menu2 p{
+    float: left;
+    align-items: flex-end;
 }
 .menu2{
-    border: 2px solid black;
+    border: 5px solid black;
+    height: 200px;
+    width: 400px;
+    margin-right: 50;
     border-bottom-right-radius: 200px;
-    display: flex;
-    background-color: red
 }
 .menu2 img{
     position: relative;
-    right: 10px;
-    top : 150px;
-    background-color: white;
+    right: 100px;
+    top : 0px;
     float: left;
+    padding: 0px;
+    margin-left:0%;
 }
 
