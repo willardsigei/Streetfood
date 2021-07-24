@@ -30,19 +30,28 @@
 display: flex;
 align-items: center;
 }
-.menu .mlist{
-    width: 100px;
-    padding: 100px 1px;
-    margin: 50px 0;
-    display: flex;
-    list-style: none;
-    text-align: center;
-}
-.menu{
-    background-color: #c4d9fb;
+.menu >div{
+    background: #c4d9fb;
+    padding: 1em;
+    
 }
 .hotd{
     background-color: #C9ECB5;
     display: flex;
     align-items: center;
+}
+.menu{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+       width: 100%;
+    padding: 12px 10px;
+    margin: 5px 0;
+}
+.menu2{
+    border: 2px solid black;
+    display: flex
+}
+.menu2 img{
+    position: relative;
+    right: 40px;
 }
