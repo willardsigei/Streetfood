@@ -53,5 +53,7 @@ align-items: center;
 }
 .menu2 img{
     position: relative;
-    right: 40px;
+    right: 10px;
+    top : 150px;
+    float: left;
 }
