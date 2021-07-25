@@ -49,3 +49,52 @@ body {
 
 }
 
+.exmenu {
+    margin-left: 80px;
+    margin-right: 35px;
+    padding-right: 70px;
+    padding-left: 0px;
+    background-color: #eaf3e4;
+
+}
+
+.exmenuburgnamex {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.exmenu>h1 {
+    text-align: center
+}
+.burgname {
+    padding: 20px;
+    height: 100px;
+    margin: 100px;
+    min-height: 100px;
+    width: 250px;
+    border-radius: 0 0 50px 0;
+    background-color: white;
+    position: relative;
+}
+
+.burgname>img {
+    position: absolute;
+    bottom: -2.5rem;
+    left: -5rem;
+    height: 9rem;
+    width: 10rem;
+    top: 2rem;
+}
+
+.burgname>h3 {
+    text-align: left;
+    left: 0rem;
+}
+
+.burgname>p {
+    text-align: center;
+    margin-left: 2rem;
+    font-size: 18px;
+}
