@@ -1,73 +1,51 @@
-#home1{
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+#home1 {
     background-color: #c4d9fb;
 
 }
-#home3 ul{
+
+#home3 ul {
     width: 100%;
     padding: 12px 10px;
     margin: 50px 0;
-    box-sizing: border-box;
     display: flex;
     justify-content: space-evenly;
     list-style: none;
 }
-.street{
+
+.street {
     color: #6cb840;
 }
-.man{
+
+.man {
     color: rgb(205, 50, 115);
 }
-.order{
+
+.order {
     background-color: #6CB840;
     border-radius: 12px 12px 12px 12px;
     border: transparent;
     height: 4vh;
 }
-.kuku h3{
+
+.kuku h3 {
     color: #6CB840;
 }
-.hen{
-display: flex;
-align-items: center;
-}
-/* .menu >div{
-    background: #f5f6f8;
-    padding: 1em; 
-    
-}*/
-/* .hotd{
-    background-color: #C9ECB5;
+
+.hen {
     display: flex;
     align-items: center;
 }
-.menu{
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
-       width: 100%;
-    padding: 12px 10px;
-    margin: 5px 0;
-    background-color: rgb(225, 225, 216);
+
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: Poppins;
+
 }
-.menu2 p{
-    float: left;
-    align-items: flex-end;
-}
-.menu2{
-    border: 5px solid black;
-    height: 200px;
-    width: 400px;
-    margin-right: 50;
-    border-bottom-right-radius: 200px;
-}
-.menu2 img{
-    position: relative;
-    right: 100px;
-    top : 0px;
-    float: left;
-    padding: 0px;
-    margin-left:0%;
-} */
-.menu{
-display: flex;
-padding: 1px;
-}
+
