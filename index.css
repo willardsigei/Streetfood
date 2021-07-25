@@ -98,3 +98,56 @@ body {
     margin-left: 2rem;
     font-size: 18px;
 }
+.classic {
+    background-color: #C9ECB5;
+}
+
+#classic {
+    text-align: center;
+    margin-top: 0px;
+    padding: 30px;
+}
+
+#hot {
+    font-size: x-large;
+}
+
+#deals {
+    font-size: x-large;
+    color: #6CB840;
+}
+
+.carrie {
+    display: flex;
+    margin: 5px;
+}
+.specialhlast {
+    text-align: center;
+    margin-top: 180px;
+}
+#special {
+    font-size: 50px;
+    color: #6CB840;
+    margin
+}
+
+#pizz {
+    font-size: 40px;
+    text-align: left;
+    margin: 50px;
+}
+
+#para {
+    text-align: center;
+    margin: 50px;
+    width: 280px;
+    font-size: 20px;
+}
+.burglas {
+    position: relative;
+    margin-left: 150px;
+    height: 40%;
+    width: 30%;
+    right: 400px;
+}
+
