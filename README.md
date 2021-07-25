@@ -4,7 +4,12 @@
 
 KIPNGENO SIGEI
 
-### Tchenology used
+## Project Description
+
+This Webiste is design as to help customers get to their foods stuff at their fingertips and comforts.
+It is user friendly and the prices of the products are very friendly. 
+
+### Technology used
 * html5
 * css
 
