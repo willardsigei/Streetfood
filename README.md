@@ -6,7 +6,7 @@ KIPNGENO SIGEI
 
 ## Project Description
 
-This Webiste is design as to help customers get to their foods stuff at their fingertips and comforts.
+This Webiste is designed to help customers get to their foods stuff at their comforts.
 It is user friendly and the prices of the products are very friendly. 
 
 ### Technology used
