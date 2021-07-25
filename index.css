@@ -199,5 +199,72 @@ body {
     padding: 40px;
     width: auto;
 }
+footer {
+    height: 230px;
+    background-color: #C9ECB5;
+    position: relative;
+    left: 15px;
+    top: 30px;
+}
 
+#otime,#otimeb {
+    width: 200px;
+    height: 100px;
+    font-size: 25px
+
+}
+
+#otimeb>h5 {
+    margin: 0;
+    font-size: 25px
+
+}
+
+#location {
+    width: 200px;
+    height: 100px;
+    border-left: 3px dashed #77bb50;
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+    padding-left: 50px;
+    font-size: 23px;
+}
+
+#follow {
+    width: 270px;
+    height: 130px;
+    position: relative;
+    left: 1500px;
+    bottom: 230px;
+    font-size: 20px;
+}
+
+#button {
+    position: relative;
+    left: 1670px;
+    bottom: 250px;
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#ig_icon {
+    position: relative;
+    left: 1700px;
+    bottom: 350px;
+}
+
+span {
+    color: #6CB840;
+}
+
+h1>span {
+    color: #EAAB1B;
+}
 
