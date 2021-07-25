@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Poppins', sans-serif;
     width: 100%;
@@ -128,7 +129,6 @@ body {
 #special {
     font-size: 50px;
     color: #6CB840;
-    margin
 }
 
 #pizz {
@@ -150,4 +150,54 @@ body {
     width: 30%;
     right: 400px;
 }
+.cons>p {
+    font-size: x-large;
+    text-align: center;
+    background-color: #FFD77C;
+    margin: 0px;
+    padding: 50px;
+}
+
+#contactspan {
+    font-weight: 700;
+}
+
+#us {
+    color: #6CB840;
+    font-weight: 700;
+}
+
+#conts {
+    font-size: large;
+}
+
+#fill {
+    text-align: center;
+    background-color: #FFD77C;
+    margin: -50px 0px;
+    padding: 50px;
+    border-radius: 500px;
+
+}
+#email {
+    width: 600px;
+    height: 30px;
+    border-radius: 150px;
+    border-color: white;
+    border-style: none;
+    border-top-width: 0px;
+    margin: 20px;
+    margin-left: 20px;
+    font-size: large;
+    padding: 10px;
+}
+
+.click {
+    text-align: center;
+    background-color: #FFD77C;
+    margin: 0px 0px;
+    padding: 40px;
+    width: auto;
+}
+
 
